@@ -1,0 +1,12 @@
+Instructions for React version
+- Follow buttons and prompts to use the application
+- Use the app to store your business related data and perform analyses 
+ReadFile:
+Manager:
+- Currently can only add or modify one item at a time - always enter 1
+- Modify function does not recognize the difference between objects with the same name - we recommend distiguishing them by adding a number to each name, such as Factory1, Factory2
+- Impossible to delete products from a the files - if you do not have a certain item anymore, change its relevat values to zero
+- The graphing does not work well with business objects
+
+Instructions for terminal version (for debugging)
+- In any screen requiring more that one numerical entry, after each answer except the last one, type the '/' character at the end of the answer and press enter only once answered all questions from a given screen

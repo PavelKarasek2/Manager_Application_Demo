@@ -1,0 +1,16 @@
+- TextInput:
+    index: {input_index}
+    len: 20
+    style:
+      width: 320
+      height: 30
+      marginBottom: 50
+      marginLeft: 215 #changed from 30
+      fontSize: 20
+      backgroundColor: white
+      borderColor: gray
+      borderWidth: 1
+    extra_props:
+      placeholder: 'type here'
+      placeholderTextColor: grey
+      autoFocus: true

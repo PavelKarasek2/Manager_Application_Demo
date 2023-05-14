@@ -1,0 +1,13 @@
+- View:
+    style:
+      flexDirection: column
+      #justifyContent:  space-between
+      justifyContent: right
+      marginBottom: 20
+    #  marginTop:  10
+   #   marginLeft: 200
+    #  marginLeft: 30
+      position: absolute
+      left: 0 #changed from 300
+      top: 35
+    children:

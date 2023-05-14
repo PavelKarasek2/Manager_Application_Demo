@@ -1,0 +1,16 @@
+- Button:
+    id: b{id}
+    style:
+      marginLeft: 50
+      height: 50
+      borderRadius: 25
+      backgroundColor: orange
+      justifyContent: center
+    on_touch:
+      backgroundColor: rgb(255, 200, 0)
+    children:
+      - Text:
+          style:
+            fontSize: 30
+            color: black
+          index: {button_text_index}

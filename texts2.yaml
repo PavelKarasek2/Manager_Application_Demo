@@ -1,0 +1,9 @@
+- Text:
+    style:
+      marginLeft: 210
+      fontSize: 30
+      color: black
+      marginBottom: 5
+  #    flex: 1
+   #   flexDirection: row
+    index: {prompt_index}

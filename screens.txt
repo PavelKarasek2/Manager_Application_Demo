@@ -1,0 +1,100 @@
+/
+#screen 1
+/What do you want to do today?
+1)Analyze
+2)Manager
+3)Exit
+#screen 2
+/Select a file
+1) Default file
+2) Enter a filename
+3) Back to main menu
+4) Exit
+#screen 3
+/Here is your defaut file analysis:
+
+#screen 4
+/Enter the file name:
+#screen 5
+/What do you wish to manage today?
+1) Products
+2) Capital
+3) Employees
+4) Back to main menu
+5) Exit
+#screen 6
+/You are in Product Manager.
+1) Add new products
+2) Modify products
+3) Display products
+4) Analyze
+5) Go to main menu
+6) Save and exit
+#screen 7
+/You are adding new products.
+Enter how many products you want to add.
+/Enter the name:
+/Enter the marginal cost:
+#screen 8
+/You are modifying your products.
+Enter the product whose value you want to change:
+/Do you want to change the selling_price or the marginal_cost of your product?
+/Enter the new value:
+/Enter the number of such products you want to change to that value:
+#screen 9
+/You are displaying your products.
+#screen 10
+/Here is your products' analysis:
+#screen 11
+/You are in Capital Manager.
+1) Add new capital
+2) Modify existing capital
+3) Display capital
+4) Analyze
+5) Go to main menu
+6) Save and exit
+#screen 12
+/You are adding new capital.
+Enter how many capital objects you want to add.
+/Enter the name
+/Enter the cost
+#screen 13
+/You are modifying your capital.
+Enter the capital object whose value you want to change:
+/Do you want to change the current_value or the cost of your capital object?
+/Enter the new value:
+/Enter the number of such capital objects you want to change to that value:
+#screen 14
+/You are displaying your capital.
+#screen 15
+/Here is your capital analysis:
+#screen 16
+/You are in Employee Manager.
+1) Add new employee
+2) Modify current employee
+3) Display employees
+4) Analyze
+5) Go to main menu
+6) Save and exit
+#screen 17
+/You are adding new employees.
+Enter how many employees you want to create
+/Enter the name:
+/Enter the wage:
+/Enter the hours per month:
+#screen 18
+/You are modifying your employees.
+Enter the employee object whose value you want to change:
+/Do you want to change the wage or the hours of this employee?
+/Enter the new value:
+/Enter the number of such employees you want to change to that value:
+#screen 19
+/You are displaying your employees.
+#screen 20
+/Here is your employees' analysis:
+#screen 21
+/Here is your file analysis:
+
+#screen 22
+/Goodbye!
+#
